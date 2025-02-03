@@ -1,11 +1,12 @@
 title: Michael Hagen # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/Michael Hagen 2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hello all, 
   <br><br>
-  Second description 
+  My name is Michael Hagen and I am currently a GIS technician lead at HBK Engineering. I aspire to take my career to the next step into more specialized analytical roles.
+  I enjoy solving issues and finding efficient solutions in workflows and my wish is to use my experience to lead companies to use GIS technologies more efficiently. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/michael-hagen-343532175/">View My LinkedIn Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
