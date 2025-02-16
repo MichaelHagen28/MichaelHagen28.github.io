@@ -6,6 +6,7 @@
 
 [Does Cell phone Coverage in National Parks Contribute to Missing Persons Reports ](/pdf/Powerpoint slide Final Draft.pdf)
 
+In this Project I used Digital Elevation Models to create a elevation map of Yosemite National Park which was used to create a viewshed based on the Cell Towers in the park to highlight areas were Cell service is available. I then used a data set of missing persons reports and found that about 60% of missing persons are lost within the cellular range.  
 <img src="images/Maps4Cell.jpg"/>  
 
 ---
@@ -17,7 +18,7 @@
 
 ---
 [Analysis of Metro Atlanta's Housing Affordability]([http://example.com/](https://storymaps.arcgis.com/stories/334cbbcecc704f0a93b367694f5bb06f))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Mortgage rates.jpg"/>  
 
 ---
 
