@@ -4,11 +4,11 @@
 
 ### Projects
 
-[Does Cell phone Coverage in National Parks Contribute to Missing Persons Reports ](/sample_page)
+[Does Cell phone Coverage in National Parks Contribute to Missing Persons Reports ](/pdf/Powerpoint slide Final Draft.pdf) (/pdf/sample_presentation.pdf) (/pdf/Powerpoint slide Final Draft.pdf)
 <img src="pdf/Powerpoint slide Final Draft.pdf"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
