@@ -20,7 +20,7 @@ This project was to design a Scientific presentation about a geographical issue 
 <img src="pdf/20190316_133952.jpg"/> 
 
 ---
-[Analysis of Metro Atlanta's Housing Affordability]([http://example.com/](https://storymaps.arcgis.com/stories/334cbbcecc704f0a93b367694f5bb06f))
+[Analysis of Metro Atlanta's Housing Affordability]([(https://storymaps.arcgis.com/stories/334cbbcecc704f0a93b367694f5bb06f/])
 <img src="images/Mortgage rates.jpg"/>  
 
 ---
