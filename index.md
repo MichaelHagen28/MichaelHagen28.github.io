@@ -2,10 +2,10 @@
 
 ---
 
-### Project 1 
+### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Does Cell phone Coverage in National Parks Contribute to Missing Persons Reports ](/sample_page)
+<img src="pdf/Powerpoint slide Final Draft.pdf"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
