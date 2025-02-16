@@ -5,12 +5,16 @@
 ### Projects
 
 [Does Cell phone Coverage in National Parks Contribute to Missing Persons Reports ](/pdf/Powerpoint slide Final Draft.pdf)
+
 <img src="images/Maps4Cell.jpg"/>  
 
 ---
 [Urban Heat Island Discovery Day](/pdf/MichaelhagenPoster 2019.pdf)
+
+<img src="images/Project2.jpg"/>
 <img src="images/20190316_125606.jpg"/> 
 <img src="pdf/20190316_133952.jpg"/> 
+
 ---
 [Analysis of Metro Atlanta's Housing Affordability]([http://example.com/](https://storymaps.arcgis.com/stories/334cbbcecc704f0a93b367694f5bb06f))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
