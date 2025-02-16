@@ -8,7 +8,7 @@
 <img src="images/Maps4Cell.jpg"/>  
 
 ---
-[Project 2 Title](/sample_page)
+[Urban Heat Island Discovery Day](/sample_page) 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
