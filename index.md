@@ -12,7 +12,7 @@
 <img src="images/20190316_125606.jpg"/> 
 <img src="pdf/20190316_133952.jpg"/> 
 ---
-[Project 3 Title](http://example.com/)
+[Analysis of Metro Atlanta's Housing Affordability]([http://example.com/](https://storymaps.arcgis.com/stories/334cbbcecc704f0a93b367694f5bb06f))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
