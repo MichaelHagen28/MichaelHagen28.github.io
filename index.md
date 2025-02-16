@@ -8,7 +8,7 @@
 <img src="images/Maps4Cell.jpg"/>  
 
 ---
-[Urban Heat Island Discovery Day](/sample_page) 
+[Urban Heat Island Discovery Day](/pdf/MichaelhagenPoster 2019.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
