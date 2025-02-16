@@ -9,7 +9,7 @@
 
 ---
 [Urban Heat Island Discovery Day](/pdf/MichaelhagenPoster 2019.pdf)
-<img src="images/20190316_125606.jpg"/> 
+<img src="images/20190316_125606.jpg" "pdf/20190316_133952.jpg"/> 
 
 ---
 [Project 3 Title](http://example.com/)
