@@ -13,6 +13,8 @@ In this Project I used Digital Elevation Models to create a elevation map of Yos
 ---
 [Urban Heat Island Discovery Day](/pdf/MichaelhagenPoster 2019.pdf)
 
+This project was to design a Scientific presentation about a geographical issue and design an interactive experiment to show the effects of albedo and heat on the Urban Heat Islands that create hotter conditions in cities during the summer. The experiment used a heat lamp on rock surfaces of varying shades of white to black. The children would use a laser thermometer on the rocks and see a noticeable difference in temperature based on the color and how much energy is absorbed based on the color of the material. 
+
 <img src="images/Project2.jpg"/>
 <img src="images/20190316_125606.jpg"/> 
 <img src="pdf/20190316_133952.jpg"/> 
