@@ -24,7 +24,7 @@ This project was to design a Scientific presentation about a geographical issue 
 
 [Analysis of Metro Atlanta's Housing Affordability](https://storymaps.arcgis.com/stories/334cbbcecc704f0a93b367694f5bb06f)
 
-This Project examined the housing affordability of the Metro Atlanta area and analysed potential areas that are in danger of not having the a high degree of financial freedom. The data in earlier years were mostly incomplete from Census the U.S. berueu so a Temporal approach as intended did not come to fruition as an expected result. In the census blocks that did have a temporal relation the Census blocks with the lowest median incomes seem to be paying up to 142% of the their income on a mortgage in some extreme cases.     
+This Project examined the housing affordability of the Metro Atlanta area and analyzed potential areas that are in danger of not having the a high degree of financial freedom. The data in earlier years were mostly incomplete from Census the U.S. bureau so a Temporal approach as intended did not come to fruition as an expected result. In the census blocks that did have a temporal relation the Census blocks with the lowest median incomes seem to be paying up to 142% of their income on a mortgage in some extreme cases.    
 
 <img src="images/Mortgage rates.jpg"/>  
 
