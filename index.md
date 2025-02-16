@@ -11,6 +11,7 @@ In this Project I used Digital Elevation Models to create a elevation map of Yos
 <img src="images/Maps4Cell.jpg"/>  
 
 ---
+
 [Urban Heat Island Discovery Day](/pdf/MichaelhagenPoster 2019.pdf)
 
 This project was to design a Scientific presentation about a geographical issue and design an interactive experiment to show the effects of albedo and heat on the Urban Heat Islands that create hotter conditions in cities during the summer. The experiment used a heat lamp on rock surfaces of varying shades of white to black. The children would use a laser thermometer on the rocks and see a noticeable difference in temperature based on the color and how much energy is absorbed based on the color of the material. 
@@ -20,20 +21,24 @@ This project was to design a Scientific presentation about a geographical issue 
 <img src="pdf/20190316_133952.jpg"/> 
 
 ---
+
 [Analysis of Metro Atlanta's Housing Affordability](https://storymaps.arcgis.com/stories/334cbbcecc704f0a93b367694f5bb06f)
+
+This Project examined the housing affordability of the Metro Atlanta area and analysed potential areas that are in danger of not having the a high degree of financial freedom. The data in earlier years were mostly incomplete from Census the U.S. berueu so a Temporal approach as intended did not come to fruition as an expected result. In the census blocks that did have a temporal relation the Census blocks with the lowest median incomes seem to be paying up to 142% of the their income on a mortgage in some extreme cases.     
+
 <img src="images/Mortgage rates.jpg"/>  
 
----
+// ---
 
-### Category Name 2
+// ### Category Name 2
 
-- [Project 1 Title](https://storymaps.arcgis.com/stories/334cbbcecc704f0a93b367694f5bb06f)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+// - [Project 1 Title](http://example.com/)
+// - [Project 2 Title](http://example.com/)
+// - [Project 3 Title](http://example.com/)
+// - [Project 4 Title](http://example.com/)
+// - [Project 5 Title](http://example.com/)
 
----
+// ---
 
 
 
