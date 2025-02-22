@@ -29,14 +29,9 @@ This project examined the housing affordability of the metro Atlanta area and an
 <img src="images/Mortgage rates.jpg"/>  
 
 
+[![GSU Coffee Locations Map](images/CentralAsiaCities.png)]([http://example.com/](https://services.arcgis.com/3xOwF6p0r7IHIjfn/arcgis/rest/services/Shapefiles/FeatureServer))
 
-[GSU Coffee Locations Map](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-<!-- Add script to the <head> of your page to load the embeddable map component -->
-<script type="module" src="https://js.arcgis.com/embeddable-components/4.31/arcgis-embeddable-components.esm.js"></script>
-<!-- Add custom element to <body> of your page -->
- <arcgis-embedded-map style="height:600px;width:700px;" item-id="b3604b06554145ef8a7e0de0adb75ef7" theme="light" portal-url="https://uok.maps.arcgis.com" ></arcgis-embedded-map>
 
 
 ---
