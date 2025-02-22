@@ -32,7 +32,6 @@ This project examined the housing affordability of the metro Atlanta area and an
 [![GSU Coffee Locations Map](images/Clip.png)]([http://example.com/](https://services.arcgis.com/3xOwF6p0r7IHIjfn/arcgis/rest/services/Shapefiles/FeatureServer))
 
 
-
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
