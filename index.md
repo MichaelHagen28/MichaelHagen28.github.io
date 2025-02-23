@@ -29,6 +29,9 @@ This project examined the housing affordability of the metro Atlanta area and an
 <img src="images/Mortgage rates.jpg"/>  
 
 
+---
+[GSU Coffee Locations Map]
+
 [![GSU Coffee Locations Map](images/Clip.png)](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=b3604b06554145ef8a7e0de0adb75ef7)
 
 
