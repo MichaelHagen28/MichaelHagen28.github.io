@@ -41,7 +41,7 @@ This project was a simple map of GSU Campus coffee shops available in the Downto
 
 [Before and After Northern California Fire 2019]
 
-[![GSU Coffee Locations Map](images/Clip.png)]([https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=b3604b06554145ef8a7e0de0adb75ef7](https://ee-michaelhagen28.projects.earthengine.app/view/before-and-after-fire))
+[![Nortern Califonia Fire map](images/FireChang.png)]([(https://ee-michaelhagen28.projects.earthengine.app/view/before-and-after-fire))
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
