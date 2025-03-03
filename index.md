@@ -4,9 +4,9 @@
 
 ### Projects
 
-[Does Cell phone Coverage in National Parks Contribute to Missing Persons Reports ](/pdf/Powerpoint slide Final Draft.pdf)
+[Does Cell Phone Coverage in National Parks Contribute to Missing Persons Reports ](/pdf/Powerpoint slide Final Draft.pdf)
 
-In this project, digital elevation models were used to create an elevation map of Yosemite National Park. Which was further processed to create a viewshed analysis based on the cell tower locations and hieghts in the park to highlight areas were Cell service is available. I then used a data set of missing persons reports and found that about 60% of missing persons are lost within the cellular range. 
+This project used digital elevation models to create an elevation map of Yosemite National Park. This was further processed to produce a viewshed analysis based on the cell tower locations and heights in the park to highlight areas where Cell service is available. I then used a data set of missing persons reports and found that about 60% of missing persons are lost within the cellular range. 
 
 <img src="images/Maps4Cell.jpg"/>  
 
@@ -14,7 +14,7 @@ In this project, digital elevation models were used to create an elevation map o
 
 [Urban Heat Island Discovery Day](/pdf/MichaelhagenPoster 2019.pdf)
 
-This project was to design a scientific presentation about geographical issues and design an interactive experiment. The topic and experiment was to show the effects of albedo and heat on the urban heat islands phenomenon that creates hotter conditions in cities during the summer. The experiment used a heat lamp on rock surfaces of varying shades of white to black. The children would use a laser thermometer on the rocks and see a noticeable difference in temperature based on the color and how much energy is absorbed based on the color of the material. 
+This project was to design a scientific presentation about geographical issues and plan an interactive experiment for a science fair. The topic and experiment were to show the effects of albedo and heat on the urban heat island phenomenon that creates hotter conditions in cities during the summer. The experiment used a heat lamp on rock surfaces of varying shades of white to black. The children would use a laser thermometer on the rocks and see a noticeable temperature difference based on the color and how much energy is absorbed based on the shade of the material. 
 
 <img src="images/Project2.jpg"/>
 <img src="images/20190316_125606.jpg"/> 
@@ -32,9 +32,17 @@ This project examined the housing affordability of the metro Atlanta area and an
 ---
 [GSU Coffee Locations Map]
 
+This project was a simple map of GSU Campus coffee shops available in the Downtown Atlanta area. 
+
 [![GSU Coffee Locations Map](images/Clip.png)](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=b3604b06554145ef8a7e0de0adb75ef7)
 
 
 ---
+
+[Before and After Northern California Fire 2019]
+
+[![GSU Coffee Locations Map](images/Clip.png)]([https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=b3604b06554145ef8a7e0de0adb75ef7](https://ee-michaelhagen28.projects.earthengine.app/view/before-and-after-fire))
+
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
